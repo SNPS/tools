@@ -4,10 +4,10 @@ Tool for determining that the data matrix formed by the rows and columns in a CS
 _E.g._:
 
     Rectangular matrix:    Jagged matrix:
-    XXXX                   xxxx
-    XXXX                   xxx
-    XXXX                   xx
-    XXXX                   xxxx
+    X,X,X,X                x,x,x,x
+    X,X,X,X                x,x,x
+    X,X,X,X                x,x
+    X,X,X,X                x,x,x,x
 
 ### Usage
 
