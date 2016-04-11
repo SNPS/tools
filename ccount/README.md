@@ -12,3 +12,7 @@ _E.g._:
 ### Usage
 
     Usage: CCOUNT <input file>
+
+### Build
+
+Run make.
